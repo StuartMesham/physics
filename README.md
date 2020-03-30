@@ -1,5 +1,5 @@
 # Newtonian Physics
-Inspired by some introductory physics lectures, here are two interactive simulators.
+Inspired by some introductory physics lectures, here are two interactive simulations.
 
 The first, ```bouncy_ball.py``` is a simulation of a ball that is elastic and is under the influence of gravity.
 You can click and drag to throw the ball around.
